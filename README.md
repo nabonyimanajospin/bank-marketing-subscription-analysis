@@ -106,6 +106,7 @@ This project shows how marketing departments in banks can:
 
 **Nabonyimana Jospin**  
 🎓 AUCA – Adventist University of Central Africa  
+📧 **Email:** <mailto:jospinnabonyimana@gmail.com>
 📧 Email: [jospinnabonyimana@gmail.com](mailto:jospinnabonyimana@gmail.com)
 
 ---
