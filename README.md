@@ -88,9 +88,9 @@ df_cleaned = df_cleaned[(df_cleaned["duration"] > 0) & (df_cleaned["balance"] > 
 df_cleaned.reset_index(drop=True, inplace=True)
 ```
 
-**🗈 Screenshot of cleaned output:**
+**📸 Screenshot of cleaned output:**
 
-> 📸 `screenshots/data_cleaning_head.png`
+> <img width="1753" height="351" alt="image" src="https://github.com/user-attachments/assets/13eb7bd9-2d13-40b2-8d9c-67748255332b" />
 
 ---
 
@@ -108,9 +108,10 @@ plt.title("Target Variable: Subscribed or Not")
 plt.show()
 ```
 
-**🗈 Screenshot of EDA output:**
+**📸 Screenshot of EDA output:**
 
-> 📸 `screenshots/eda_target.png`
+> <img width="591" height="463" alt="image" src="https://github.com/user-attachments/assets/d8e2c1d1-e8a0-42c6-82a0-d3c4ccfaf4a2" />
+
 
 Other charts:
 
@@ -146,15 +147,26 @@ print("Classification Report:\n", classification_report(y_test, y_pred))
 
 ✅ Accuracy \~ **84%**
 
-**🗈 Screenshot of model evaluation:**
+**📸 Screenshot of model evaluation:**
 
-> 📸 `screenshots/model_report.png`
+> <img width="1207" height="988" alt="image" src="https://github.com/user-attachments/assets/ef149776-763d-461b-919b-5f33bdf8efd3" />
+<img width="1724" height="447" alt="image" src="https://github.com/user-attachments/assets/86a8f18a-8a14-423c-aee9-1c5d875b5629" />
+
+
 
 ---
 
 ### ✅ Part 4: Power BI Dashboard
 
-> See visuals in `/screenshots/` folder and `.pbix` file
+📌 Power BI Dashboard images
+---
+An interactive dashboard was developed to visualize the analytical results. Key features include:
+📌 Overview Page: Project context and summary insights
+<img width="1271" height="676" alt="image" src="https://github.com/user-attachments/assets/9870e383-5ad0-4543-a7f2-3e68cdd0f52c" />
+<img width="1268" height="683" alt="image" src="https://github.com/user-attachments/assets/7bfb3e19-8670-4c9b-90a3-64731ba03a74" />
+<img width="1269" height="704" alt="image" src="https://github.com/user-attachments/assets/1c0e9476-3e46-4f47-b02e-89f4a5372966" />
+<img width="1265" height="698" alt="image" src="https://github.com/user-attachments/assets/e23a53cd-303d-4cf5-a687-bec080efeeea" />
+<img width="1265" height="693" alt="image" src="https://github.com/user-attachments/assets/ecfdcafe-3a2b-43db-92aa-e345082a1fec" />
 
 **Sample Visuals Created(From POWER BI):**
 
