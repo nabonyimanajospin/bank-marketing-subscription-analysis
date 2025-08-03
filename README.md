@@ -57,6 +57,7 @@ This project leverages real-world structured data from a bank marketing campaign
 
 * Sector: **Banking / Marketing**
 * Dataset: [Bank Marketing (UCI)](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
+* Google colab: [Google colab link](https://colab.research.google.com/drive/131Nciw5gYkaNowLrSGzRqqYVFGZ6UfQu)
 * Public, structured, and suitable for classification
 
 ### ✅ Part 2: Python Analysis
